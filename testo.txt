@@ -1,0 +1,14 @@
+Che cos'è un algoritmo?
+
+Un algoritmo è un lista di istruzioni che vengono date ad un computer per eseguire
+determinate procedure che il programmatore vuole vengano eseguite dal software.
+
+Cos'è una variabile?
+
+Una variabile è una sorta di contenitore a cui possiamo attribuire un "etichetta"
+e un valore. Le variabili sono uno degli elementi necessari per scrivere un algoritmo.
+
+Undefined e null sono la stessa cosa?
+
+No, Undefined è una variabile che non è stata dichiarata ma non è ancora stata definita, mentre null è una variabile
+ che è stata dichiarata e definta con valore uguale a null.
